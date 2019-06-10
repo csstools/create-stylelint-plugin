@@ -1,0 +1,26 @@
+{
+  "name": "create-stylelint-plugin",
+  "version": "1.0.0",
+  "description": "Quickly create new stylelint plugins",
+  "author": "Jonathan Neal <jonathantneal@hotmail.com>",
+  "license": "CC0-1.0",
+  "repository": "csstools/create-stylelint-plugin",
+  "homepage": "https://github.com/csstools/create-stylelint-plugin#readme",
+  "bugs": "https://github.com/csstools/create-stylelint-plugin/issues",
+  "bin": {
+    "create-stylelint-plugin": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "lib/**/*",
+    "template/**/*"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "stylelint",
+    "plugin",
+    "generator"
+  ]
+}

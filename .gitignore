@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+.*
+!.editorconfig
+!.gitignore
+!.tape.js
+!.travis.yml
+*.log*
+*.result.css
